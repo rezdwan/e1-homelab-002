@@ -1,1 +1,1 @@
-# e1-homelab
+# E1 Homelab
